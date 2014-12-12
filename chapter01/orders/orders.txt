@@ -1,0 +1,7 @@
+2014-12-12 11:53:17	3 tires	1 oil	2 spark plugs	349.8
+2014-12-12 11:53:18	3 tires	1 oil	2 spark plugs	349.8
+2014-12-12 11:53:18	3 tires	1 oil	2 spark plugs	349.8
+2014-12-12 11:53:19	3 tires	1 oil	2 spark plugs	349.8
+2014-12-12 11:53:19	3 tires	1 oil	2 spark plugs	349.8
+2014-12-12 11:53:20	3 tires	1 oil	2 spark plugs	349.8
+2014-12-12 11:53:21	3 tires	1 oil	2 spark plugs	349.8
