@@ -1,3 +1,6 @@
+create database books;
+use books;
+
 create table customers(
 	customer_id int unsigned not null auto_increment primary key,
 	name char(50) not null,
@@ -20,8 +23,8 @@ create table books(
 );
 
 create table order_items(
-	isbn char(13) not null,
 	order_id int unsigned not null,
+	isbn char(13) not null,
 	quantity tinyint unsigned,
 
 	primary key(order_id, isbn)
